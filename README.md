@@ -7,7 +7,6 @@ I have similar repostories:
 * [Travis CI](https://github.com/briandfoy/brians_perl_modules_travis_config)
 * [Travis CI for Perl 6](https://github.com/briandfoy/brians_perl_modules_travis_config)
 * [AppVeyor for Perl6 Modules](https://github.com/briandfoy/brians_perl_modules_travis_config)
-* [AppVeyor for Perl6 Modules](https://github.com/briandfoy/brians_perl_modules_travis_config)
 
 And sometimes I write about these things:
 
