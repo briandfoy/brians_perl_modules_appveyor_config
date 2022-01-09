@@ -8,9 +8,7 @@ You can get the latest version of the file (say, in a shell script):
 
 I have similar repositories:
 
-* [Travis CI for Perl 5](https://github.com/briandfoy/brians_perl_modules_travis_config)
-* [Travis CI for Perl 6](https://github.com/briandfoy/brians_perl6_modules_travis_config)
-* [AppVeyor for Perl 6 Modules](https://github.com/briandfoy/brians_perl6_modules_appveyor_config)
+* [GitHub Actions for Perl 5 Modules](https://github.com/briandfoy/github_actions)
 
 
 And sometimes I write about these things:
