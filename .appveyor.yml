@@ -3,12 +3,10 @@
 # This file is licensed under the Artistic License 2.0
 
 image:
-  - Visual Studio 2015
-  - Visual Studio 2017
   - Visual Studio 2019
-  - ubuntu1604
+  - Visual Studio 2022
   - ubuntu1804
-  - ubuntu
+  - ubuntu2004
 
 environment:
   PERL5LIB: /home/appveyor/perl5/lib/perl5
