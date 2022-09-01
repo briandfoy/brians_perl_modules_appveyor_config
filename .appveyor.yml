@@ -1,0 +1,21 @@
+---
+image:
+  - Visual Studio 2022
+
+environment:
+
+platform: x64
+
+branches:
+  only:
+    - master
+    - appveyor
+
+skip_tags: true
+
+install:
+  - python --version
+  - pip install yamllint
+
+build_script:
+  - yamllint *.yml
