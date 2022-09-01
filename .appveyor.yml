@@ -2,8 +2,6 @@
 image:
   - Visual Studio 2022
 
-environment:
-
 platform: x64
 
 branches:
