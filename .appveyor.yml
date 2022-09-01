@@ -16,4 +16,4 @@ install:
   - pip install yamllint
 
 build_script:
-  - ps: yamllint *.yml
+  - ps: yamllint yamllint @(Get-ChildItem *.yml -Recurse)
