@@ -1,6 +1,6 @@
 # brian's Standard Configuration for Perl 5 Modules on AppVeyor
 
-![https://www.github.com/briandfoy/brians_perl_modules_appveyor_config/workflows/YAML%20Lint/badge.svg](https://www.github.com/briandfoy/brians_perl_modules_appveyor_config/actions?query=workflow%3AYAML%20Lint) ![https://ci.appveyor.com/api/projects/status/glu5see5ud9x19br?svg=true](https://ci.appveyor.com/project/briandfoy/brians-perl-modules-appveyor-config)
+[![](https://www.github.com/briandfoy/brians_perl_modules_appveyor_config/workflows/YAML%20Lint/badge.svg)](https://www.github.com/briandfoy/brians_perl_modules_appveyor_config/actions?query=workflow%3AYAML%20Lint) [![](https://ci.appveyor.com/api/projects/status/glu5see5ud9x19br?svg=true)](https://ci.appveyor.com/project/briandfoy/brians-perl-modules-appveyor-config)
 
 [AppVeyor](https://www.appveyor.com/) is a continuous integration service for Windows and Linux. I test my [public Perl modules](https://github.com/briandfoy) on it and they often have the same configuration. I created this repository to version a file that show up in most of my repositories. I update it here then everything else updates off this.
 
