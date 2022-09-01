@@ -1,6 +1,7 @@
 ---
 name: YAML Lint
-on: [push]
+on: # yamllint disable-line rule:truthy
+  - push
 jobs:
   check-yaml:
     runs-on: ubuntu-latest
