@@ -16,4 +16,4 @@ install:
   - pip install yamllint
 
 build_script:
-  - yamllint *.yml
+  - ps: yamllint *.yml
